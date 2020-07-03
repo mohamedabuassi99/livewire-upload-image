@@ -21,7 +21,7 @@
                     <div wire:loading wire:target="photo" class="text-sm text-gray-500 italic">Uploading...</div>
                 </div>
 
-                <button type="submit" class="bg-dark hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Save
+                <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Save
                     Photo
                 </button>
             </form>
